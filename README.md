@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Cauaandrade2000/Caua_Andrade">
+  <a href="https://github.com/Cauaandrade2000">
     <img src="https://img.shields.io/badge/GitHub-Cauaandrade2000-181717?style=for-the-badge&logo=github">
   </a>
 
