@@ -1,4 +1,6 @@
-<p align="center"> <img src="./assets/https://chatgpt.com/backend-api/estuary/content?id=file_000000006344820ea4e48cb5ca28b9c4&ts=496607&p=fs&cid=1&sig=27347001d62eb426903110fff1a156d2dbc1056c9c8b5f460554aa14dcff4bc7&v=0" width="100%" alt="Banner do perfil"> </p>
+<p align="center">
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006344820ea4e48cb5ca28b9c4&ts=496607&p=fs&cid=1&sig=27347001d62eb426903110fff1a156d2dbc1056c9c8b5f460554aa14dcff4bc7&v=0" width="100%">
+</p>
 
 
 <p align="center">
