@@ -1,3 +1,6 @@
+<p align="center"> <img src="./assets/banner.png" width="100%" alt="Banner do perfil"> </p>
+
+
 <p align="center">
   <a href="https://github.com/Cauaandrade2000">
     <img src="https://img.shields.io/badge/GitHub-Cauaandrade2000-181717?style=for-the-badge&logo=github">
