@@ -1,16 +1,24 @@
-## Hi there 👋
+# Caua_Andrade #
+Olá me chamo cauã
 
-<!--
-**Cauaandrade2000/Cauaandrade2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim: 
 
-Here are some ideas to get you started:
+Sou estudante de Analise desenvolvimento de sistema (Ads) 
+Me encontro no 2º Semestre da faculdade 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conhecimento:
+Tenho conhecimento basico em Pyton atraves da faculdade. 
+
+Conhecimento modelagem de sistema UML (Linguagem de Modelagem Unificada)
+
+Objetivo:
+Busco minha primeira oportunidade na área de tecnologia.
+
+Sou proativo, organizado e dedicado, tenho facilidade para aprender
+e grande interesse em adquirir novos conhecimentos. Meu objetivo é
+crescer profissionalmente, colocar meus conhecimentos em prática e
+contribuir com a equipe.
+
+Contatos:
+E-Mail: cauaa6947@gmail.com
+Linkedin: www.linkedin.com/in/cauã-andrade-54b35334b
