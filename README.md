@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://github.com/Cauaandrade2000/Caua_Andrade">
+    <img src="https://img.shields.io/badge/GitHub-Cauaandrade2000-181717?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://www.linkedin.com/in/cauã-andrade-54b35334b">
+    <img src="https://img.shields.io/badge/LinkedIn-Cauã%20Andrade-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
 # Caua_Andrade #
 Olá me chamo cauã
 
